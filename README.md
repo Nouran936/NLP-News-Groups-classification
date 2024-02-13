@@ -9,40 +9,41 @@ Used different NLP techniques to preprocess textual data and then we’ve traine
 4.	Tokenization
 5.	Removing stopwords
 6.	Stemming: In this step we’ve tried two stemmers to see the impact of stemming on our accuracy:
-  a)	Snowball stemmer:
-    KNN
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/91eb30d7-954f-49a5-a11e-e582d27106c1)
-    
-    SVM
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/78eae1bc-f6c3-4a04-a68a-c2768980b08f)
-    
-    Decision Tree 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/9e72006b-334f-49a5-9844-f1d5b63aa74e)
 
-    Random Forest 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/31ec4ffd-45ff-4d6c-a9cd-63179264117e)
+a)	Snowball stemmer:
+KNN
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/91eb30d7-954f-49a5-a11e-e582d27106c1)
     
-    Logistic Regression 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/56dac11c-ac30-4d3a-8f73-8a1efe0dcae5)
+SVM
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/78eae1bc-f6c3-4a04-a68a-c2768980b08f)
 
+Decision Tree 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/9e72006b-334f-49a5-9844-f1d5b63aa74e)
 
-  b)	Porter Stemmer:
-    KNN: 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/eae3afae-ec0e-4009-a058-92a38eca48d2)
-    
-    SVM:      
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/3283cca4-98e2-437b-bd13-d2c1f0bfb59a)
-    
-    Decision Tree:
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/b73894d2-910e-4b73-b8be-c076f723e61b)
+Random Forest 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/31ec4ffd-45ff-4d6c-a9cd-63179264117e)
+
+Logistic Regression 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/56dac11c-ac30-4d3a-8f73-8a1efe0dcae5)
 
 
-    Random Forest: 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/55babdd7-88b8-4d3c-8766-45f42c057556)
+b)	Porter Stemmer:
+KNN: 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/eae3afae-ec0e-4009-a058-92a38eca48d2)
+
+SVM:      
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/3283cca4-98e2-437b-bd13-d2c1f0bfb59a)
     
-    
-    Logistic Regression: 
-    ![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/cd2c9974-b3a2-426e-89a3-234fb1718526)
+Decision Tree:
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/b73894d2-910e-4b73-b8be-c076f723e61b)
+
+
+Random Forest: 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/55babdd7-88b8-4d3c-8766-45f42c057556)
+
+
+Logistic Regression: 
+![image](https://github.com/Nouran936/NLP-News-Groups-classification/assets/112628931/cd2c9974-b3a2-426e-89a3-234fb1718526)
 
 7.	Lemmatization and POS tagging
 8.	Remove numeric data
